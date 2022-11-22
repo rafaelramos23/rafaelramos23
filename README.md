@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Ramos! 👋
 
--   Atualmente estou estudando Programação Web com foco em C#...
+-   Atualmente estou estudando Programação Web com foco em Javascript...
 
 <div>
   <a href="https://github.com/rafaelramos23">
