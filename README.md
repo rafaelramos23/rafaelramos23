@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Ramos! 👋
 
 - 📚 Atualmente estou estudando Programação Web com foco em JavaScript.
-- 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
+- 👨‍🏫 Graduado em Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
 
 <div>
   <a href="https://github.com/rafaelramos23">
