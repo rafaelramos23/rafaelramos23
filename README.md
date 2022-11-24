@@ -1,6 +1,7 @@
 ### Olá, eu sou o Rafael Ramos! 👋
 
--   Atualmente estou estudando Programação Web com foco em JavaScript...
+- 📚 Atualmente estou estudando Programação Web com foco em JavaScript.
+- 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
 
 <div>
   <a href="https://github.com/rafaelramos23">
@@ -15,14 +16,18 @@
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>  
-
- <br>
-<div>
-  <a href="https://instagram.com/raffaellramos23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raffaellramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelramos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br>
+<br>
   
    ![Snake animation](https://github.com/rafaelramos23/rafaelramos23/blob/output/github-contribution-grid-snake.svg)
-  
+<br>
+<div>
+  <a href = "mailto:raffaellramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafaelramos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://rafaelramos23.github.io/mini-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00B2FF?style=for-the-badge&logo=portfolio&logoColor=white">
  </div>
+ 
+#
+  <div align="center">
+    <h3> Total de visitas ao perfil </h3>
+    <img src="https://profile-counter.glitch.me/rafaelramos23/count.svg"
+  </div>
